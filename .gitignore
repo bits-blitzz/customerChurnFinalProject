@@ -1,0 +1,25 @@
+# .gitignore
+
+# --- Virtual Environment ---
+# This is the most important one. It blocks your huge venv folder.
+venv/
+.venv/
+env/
+.env
+
+# --- Python cache files ---
+# These are temporary files Python creates that we don't need.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- OS-specific files ---
+# Annoying hidden files created by Windows and macOS.
+.DS_Store
+Thumbs.db
+
+# --- IDE/Editor folders ---
+# Configuration folders for editors like VS Code.
+.vscode/
+.idea/
