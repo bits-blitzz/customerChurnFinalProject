@@ -35,13 +35,14 @@ python -m venv venv
 
 # Activate on macOS/Linux
 source venv/bin/activate
-3. Install Dependencies
+### 3. Install Dependencies
 This command installs all the necessary libraries.
 
 Bash
 
 pip install -r requirements.txt
-4. Run the Streamlit Application
+
+### 4. Run the Streamlit Application
 This will start the web server and open the application in your browser.
 
 Bash
