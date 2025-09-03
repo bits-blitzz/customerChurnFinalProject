@@ -5,10 +5,6 @@ The app provides **real-time churn probability scores** based on customer detail
 
 ---
 
-## 🖼️ Demo Screenshot
-![App Screenshot](screenshot.png) <!-- (Optional: Add your app screenshot here) -->
-
----
 
 ## 🛠️ Tech Stack
 
