@@ -43,8 +43,8 @@ The app provides **real-time churn probability scores** based on customer detail
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/bits-blitzz/customerChurnFinalProject.git
+cd <customerChurnFinalProject>
 ```
 
 ### 2️⃣ Create a Virtual Environment
